@@ -1,6 +1,7 @@
 Link to the output/finished product: https://zuber-bs.github.io/Ghost-Runner/
 
 CONTROLS:
+
 Space: To jump and go up
 Left Arrow: Go left
 Right Arrow: Go right
